@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: Joe, Annie, David, Hallie
 format: html
 editor: visual
 embed-resources: true
